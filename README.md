@@ -19,4 +19,12 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jp2506/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Jp2506/Leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jp2506/Leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
