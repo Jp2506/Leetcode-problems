@@ -27,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -56,10 +57,12 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
