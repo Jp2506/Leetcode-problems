@@ -7,22 +7,22 @@ public:
         sort(trainers.begin(),trainers.end());
 
         int i=0,j=0;
-        while(i<players.size())
+        while(i<players.size() && j<trainers.size())
         {
-            while(j<trainers.size())
-            {
+            
                 if(players[i]<=trainers[j])
                 {
-                count++;
-                j++;
-                break;
+                    count++;
+                    j++;
+                    i++;
                 }
+                else
+                    j++;
                 
-                j++;
-            }
-            i++;
-            
         }
+    
+            
+        
         return count;
     }
 };
