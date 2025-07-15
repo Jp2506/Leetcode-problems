@@ -40,6 +40,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [3396-valid-word](https://github.com/Jp2506/Leetcode-problems/tree/master/3396-valid-word) |
 ## Stack
 |  |
 | ------- |
