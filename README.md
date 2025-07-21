@@ -51,6 +51,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jp2506/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jp2506/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jp2506/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
