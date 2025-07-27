@@ -84,6 +84,7 @@
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
