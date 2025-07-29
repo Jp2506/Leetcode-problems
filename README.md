@@ -70,6 +70,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jp2506/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jp2506/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -100,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -118,4 +122,5 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
