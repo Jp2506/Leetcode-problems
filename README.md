@@ -52,6 +52,7 @@
 | [0520-detect-capital](https://github.com/Jp2506/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/Jp2506/Leetcode-problems/tree/master/3396-valid-word) |
 ## Stack
 |  |
@@ -71,6 +72,7 @@
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
