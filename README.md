@@ -105,6 +105,7 @@
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +149,16 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
