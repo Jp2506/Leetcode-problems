@@ -7,18 +7,13 @@ public:
         {
             mymap[it]++;
         }
-        int result=-1;
-        for(auto it:s)
+        for(int i=0;i<s.size();i++)
         {
-            if(mymap[it]==1)
+            if(mymap[s[i]]==1)
             {
-                 l=it;
-                break;
+                 return i;
             }
         }
-       int index=s.find(l);
-       if(index!=string::npos)
-            return index;
         return -1;
         
     }
