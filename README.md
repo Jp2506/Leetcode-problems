@@ -79,6 +79,7 @@
 | [0383-ransom-note](https://github.com/Jp2506/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jp2506/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -101,6 +102,7 @@
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
