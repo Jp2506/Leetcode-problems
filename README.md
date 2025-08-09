@@ -113,6 +113,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jp2506/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/Jp2506/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
+| [2058-concatenation-of-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -170,6 +171,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
