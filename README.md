@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jp2506/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
