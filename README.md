@@ -11,6 +11,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jp2506/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Jp2506/Leetcode-problems/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Jp2506/Leetcode-problems/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
