@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -144,6 +145,7 @@
 | [0342-power-of-four](https://github.com/Jp2506/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
 ## Design
 |  |
 | ------- |
