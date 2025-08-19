@@ -127,6 +127,7 @@
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
@@ -154,6 +155,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Design
 |  |
 | ------- |
