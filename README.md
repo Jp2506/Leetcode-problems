@@ -117,6 +117,7 @@
 | [0414-third-maximum-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -136,6 +137,7 @@
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Jp2506/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -145,6 +147,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
