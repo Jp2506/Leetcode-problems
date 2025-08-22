@@ -69,6 +69,7 @@
 | [0520-detect-capital](https://github.com/Jp2506/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/Jp2506/Leetcode-problems/tree/master/3396-valid-word) |
 ## Stack
@@ -140,6 +141,7 @@
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Jp2506/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -192,6 +194,7 @@
 | [0383-ransom-note](https://github.com/Jp2506/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Segment Tree
 |  |
 | ------- |
