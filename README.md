@@ -122,6 +122,7 @@
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0890-lemonade-change](https://github.com/Jp2506/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Jp2506/Leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -141,6 +142,7 @@
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Jp2506/Leetcode-problems/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -152,6 +154,7 @@
 | [0414-third-maximum-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -159,6 +162,7 @@
 | [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jp2506/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jp2506/Leetcode-problems/tree/master/0342-power-of-four) |
+| [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
