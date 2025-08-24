@@ -9,10 +9,11 @@ public:
             int a=nums[i],b=nums[i+1],c=nums[i+2];
             if(b+c>a)
             {
-                maxi=max(a+b+c,maxi);
+                return b+c+a;
             }
         }
-        return maxi;
+        return 0;
+        
     }
 
 };
