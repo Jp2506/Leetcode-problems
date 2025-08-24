@@ -82,6 +82,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Jp2506/Leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Jp2506/Leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/Jp2506/Leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
@@ -202,6 +204,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
