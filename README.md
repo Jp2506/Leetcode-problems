@@ -68,6 +68,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Jp2506/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Jp2506/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -76,12 +77,14 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jp2506/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 ## Hash Table
 |  |
@@ -143,6 +146,7 @@
 | [0409-longest-palindrome](https://github.com/Jp2506/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Jp2506/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
