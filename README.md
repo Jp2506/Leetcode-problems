@@ -82,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Jp2506/Leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
