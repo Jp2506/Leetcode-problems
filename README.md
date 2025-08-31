@@ -72,6 +72,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Jp2506/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/Jp2506/Leetcode-problems/tree/master/3396-valid-word) |
 ## Stack
 |  |
@@ -154,6 +155,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Jp2506/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Jp2506/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -175,6 +177,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Jp2506/Leetcode-problems/tree/master/1448-maximum-69-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Jp2506/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Jp2506/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Design
 |  |
