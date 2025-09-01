@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Jp2506/Leetcode-problems/tree/master/0383-ransom-note) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -250,4 +252,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
