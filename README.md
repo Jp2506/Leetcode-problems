@@ -71,6 +71,7 @@
 | [0520-detect-capital](https://github.com/Jp2506/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Jp2506/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
