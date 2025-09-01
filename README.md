@@ -62,6 +62,7 @@
 | [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Jp2506/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Jp2506/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Jp2506/Leetcode-problems/tree/master/0409-longest-palindrome) |
