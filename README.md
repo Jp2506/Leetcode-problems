@@ -77,6 +77,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Jp2506/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jp2506/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Jp2506/Leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/Jp2506/Leetcode-problems/tree/master/3396-valid-word) |
 ## Stack
@@ -85,6 +86,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Jp2506/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Jp2506/Leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
