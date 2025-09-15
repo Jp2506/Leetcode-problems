@@ -140,6 +140,7 @@
 | [0414-third-maximum-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Jp2506/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Jp2506/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Jp2506/Leetcode-problems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Jp2506/Leetcode-problems/tree/master/0575-distribute-candies) |
 | [0890-lemonade-change](https://github.com/Jp2506/Leetcode-problems/tree/master/0890-lemonade-change) |
