@@ -136,6 +136,7 @@
 | [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -229,6 +230,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
 ## Counting
@@ -247,6 +249,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/Jp2506/Leetcode-problems/tree/master/2058-concatenation-of-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Jp2506/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
