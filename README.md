@@ -135,6 +135,7 @@
 | [0011-container-with-most-water](https://github.com/Jp2506/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jp2506/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Jp2506/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jp2506/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jp2506/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jp2506/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Jp2506/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -230,6 +232,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jp2506/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Jp2506/Leetcode-problems/tree/master/1791-richest-customer-wealth) |
