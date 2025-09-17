@@ -96,6 +96,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jp2506/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Jp2506/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Jp2506/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1511-count-number-of-teams](https://github.com/Jp2506/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -141,6 +142,7 @@
 | [0055-jump-game](https://github.com/Jp2506/Leetcode-problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jp2506/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Jp2506/Leetcode-problems/tree/master/0283-move-zeroes) |
