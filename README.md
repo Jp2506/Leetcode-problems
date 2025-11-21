@@ -148,6 +148,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Jp2506/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Jp2506/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jp2506/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jp2506/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Jp2506/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -274,6 +275,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Jp2506/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Jp2506/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Jp2506/Leetcode-problems/tree/master/0342-power-of-four) |
